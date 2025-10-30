@@ -38,7 +38,8 @@ At this stage, the project focuses on the **data collection and preprocessing ph
 ---
 
 ## 📊 Example Output
-
+You can view the sample collected dataset here:  
+➡️ [Google Sheet Report (View Only)](https://drive.google.com/file/d/17tgcTyapAp6Ogu1hOH5LUaDrVaIDFcS_/view?usp=sharing)
 ---
 
 ## 🗂️ Future Work
