@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 This project aims to automate the collection and preparation of candidate profile data to study changing job expectations.  
-Using **n8n** and **Google Search API** the workflow collects public LinkedIn profile data, extracts text information and stores structured results for further analysis.
+Using **n8n** and **Google Search API**, the workflow collects public LinkedIn profile data, extracts text information and stores structured results for further analysis.
 
 At this stage, the project focuses on the **data collection and preprocessing phase**.
 
