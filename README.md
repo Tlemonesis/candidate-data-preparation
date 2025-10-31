@@ -21,7 +21,7 @@ At this stage, the project focuses on the **data collection and preprocessing ph
    - Use Google Search API within n8n to query LinkedIn profile URLs related to specific job keywords.  
 
 2. **Extract & Store Data**  
-   - Extract relevant text (e.g., About section, descriptions) from the profiles.  
+   - Extract relevant text from the profiles.  
    - Store the extracted data in Google Sheets.  
 
 3. **Preprocess Text**  
