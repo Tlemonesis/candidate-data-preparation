@@ -1,4 +1,4 @@
-# job-expectation-data-preparation
+# candidate-data-preparation
 
 ## 📘 Overview
 This project aims to automate the collection and preparation of candidate profile data to study changing job expectations.  
