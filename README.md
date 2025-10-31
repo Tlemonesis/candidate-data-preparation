@@ -37,11 +37,6 @@ At this stage, the project focuses on the **data collection and preprocessing ph
 
 ---
 
-## 📊 Example Output
-View the sample collected dataset here:  
-➡️ [Text Extraction Output (View Only)](https://drive.google.com/file/d/17tgcTyapAp6Ogu1hOH5LUaDrVaIDFcS_/view?usp=sharing)
----
-
 ## 🗂️ Future Work
 - Conduct exploratory text analysis to identify themes and trends.  
 - Visualize keyword frequency and candidate expectations over time.  
