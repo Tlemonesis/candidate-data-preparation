@@ -25,7 +25,7 @@ At this stage, the project focuses on the **data collection and preprocessing ph
    - Store the extracted data in Google Sheets.  
 
 3. **Preprocess Text**  
-   - Apply spaCy for text cleaning and tokenization.  
+   - Apply spaCy for text cleaning.  
 
 ---
 
@@ -38,8 +38,8 @@ At this stage, the project focuses on the **data collection and preprocessing ph
 ---
 
 ## 📊 Example Output
-You can view the sample collected dataset here:  
-➡️ [Google Sheet Report (View Only)](https://drive.google.com/file/d/17tgcTyapAp6Ogu1hOH5LUaDrVaIDFcS_/view?usp=sharing)
+View the sample collected dataset here:  
+➡️ [Text Extraction Output (View Only)](https://drive.google.com/file/d/17tgcTyapAp6Ogu1hOH5LUaDrVaIDFcS_/view?usp=sharing)
 ---
 
 ## 🗂️ Future Work
